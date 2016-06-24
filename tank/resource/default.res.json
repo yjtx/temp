@@ -1,0 +1,120 @@
+{
+	"groups": [
+		{
+			"keys": "base_png,bg_jpg,bullet_png,desert_jpg,enemy_png,enemy2_png,enemyNest_png,hero_png,river_jpg,tree_jpg,stone_png,bullet2_png,baozhaxiaoguo_texture_png,baozhaxiaoguo_texture_json,baozhaxiaoguo_ske_json,launcher_ske_json,launcher_texture_json,launcher_texture_png,tank_texture_png,tank_texture_json,tank_ske_json,shadow_png",
+			"name": "preload"
+		}
+	],
+	"resources": [
+		{
+			"url": "assets/tanks/base.png",
+			"type": "image",
+			"name": "base_png"
+		},
+		{
+			"url": "assets/tanks/bg.jpg",
+			"type": "image",
+			"name": "bg_jpg"
+		},
+		{
+			"url": "assets/tanks/bullet.png",
+			"type": "image",
+			"name": "bullet_png"
+		},
+		{
+			"url": "assets/tanks/desert.jpg",
+			"type": "image",
+			"name": "desert_jpg"
+		},
+		{
+			"url": "assets/tanks/enemy.png",
+			"type": "image",
+			"name": "enemy_png"
+		},
+		{
+			"url": "assets/tanks/enemy2.png",
+			"type": "image",
+			"name": "enemy2_png"
+		},
+		{
+			"url": "assets/tanks/enemyNest.png",
+			"type": "image",
+			"name": "enemyNest_png"
+		},
+		{
+			"url": "assets/tanks/hero.png",
+			"type": "image",
+			"name": "hero_png"
+		},
+		{
+			"url": "assets/tanks/river.jpg",
+			"type": "image",
+			"name": "river_jpg"
+		},
+		{
+			"url": "assets/tanks/tree.jpg",
+			"type": "image",
+			"name": "tree_jpg"
+		},
+		{
+			"url": "assets/tanks/stone.png",
+			"type": "image",
+			"name": "stone_png"
+		},
+		{
+			"url": "assets/tanks/bullet2.png",
+			"type": "image",
+			"name": "bullet2_png"
+		},
+		{
+			"url": "assets/db/baozhaxiaoguo/baozhaxiaoguo_ske.json",
+			"type": "json",
+			"name": "baozhaxiaoguo_ske_json"
+		},
+		{
+			"url": "assets/db/baozhaxiaoguo/baozhaxiaoguo_texture.json",
+			"type": "json",
+			"name": "baozhaxiaoguo_texture_json"
+		},
+		{
+			"url": "assets/db/baozhaxiaoguo/baozhaxiaoguo_texture.png",
+			"type": "image",
+			"name": "baozhaxiaoguo_texture_png"
+		},
+		{
+			"url": "assets/db/launcher/launcher_texture.png",
+			"type": "image",
+			"name": "launcher_texture_png"
+		},
+		{
+			"url": "assets/db/launcher/launcher_ske.json",
+			"type": "json",
+			"name": "launcher_ske_json"
+		},
+		{
+			"url": "assets/db/launcher/launcher_texture.json",
+			"type": "json",
+			"name": "launcher_texture_json"
+		},
+		{
+			"url": "assets/db/tank/tank_ske.json",
+			"type": "json",
+			"name": "tank_ske_json"
+		},
+		{
+			"url": "assets/db/tank/tank_texture.json",
+			"type": "json",
+			"name": "tank_texture_json"
+		},
+		{
+			"url": "assets/db/tank/tank_texture.png",
+			"type": "image",
+			"name": "tank_texture_png"
+		},
+		{
+			"url": "assets/tanks/shadow.png",
+			"type": "image",
+			"name": "shadow_png"
+		}
+	]
+}
