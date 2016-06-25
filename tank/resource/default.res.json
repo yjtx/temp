@@ -1,7 +1,7 @@
 {
 	"groups": [
 		{
-			"keys": "base_png,bg_jpg,bullet_png,desert_jpg,enemy_png,enemy2_png,enemyNest_png,hero_png,river_jpg,tree_jpg,stone_png,bullet2_png,baozhaxiaoguo_texture_png,baozhaxiaoguo_texture_json,baozhaxiaoguo_ske_json,launcher_ske_json,launcher_texture_json,launcher_texture_png,tank_texture_png,tank_texture_json,tank_ske_json,shadow_png",
+			"keys": "base_png,bg_jpg,bullet_png,desert_jpg,enemy_png,enemy2_png,enemyNest_png,hero_png,river_jpg,tree_jpg,stone_png,bullet2_png,baozhaxiaoguo_texture_png,baozhaxiaoguo_texture_json,baozhaxiaoguo_ske_json,launcher_ske_json,launcher_texture_json,launcher_texture_png,tank_texture_png,tank_texture_json,tank_ske_json,shadow_png,itemCfg_json",
 			"name": "preload"
 		}
 	],
@@ -115,6 +115,11 @@
 			"url": "assets/tanks/shadow.png",
 			"type": "image",
 			"name": "shadow_png"
+		},
+		{
+			"url": "config/itemCfg.json",
+			"type": "json",
+			"name": "itemCfg_json"
 		}
 	]
 }

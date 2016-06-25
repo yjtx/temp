@@ -1,0 +1,91 @@
+{
+    "1": {
+        "res": {
+            "name": "tank",
+            "armature": "myTank",
+            "animation": "walk",
+            "offPoint":[0, 0, 0.6, 0.6]
+        },
+        "size": {
+            "blockSizes":[[0, 0, 80, 80]],
+            "range":[55, 60, 55, 60]
+        },
+        "properties": {
+            "health": 100,
+            "defense": 50,
+            "mana": 0
+        },
+        "bullet":{
+            "id": 12,
+            "speed": 8
+        },
+        "type": 1
+    },
+    "2": {
+        "res": {
+            "name": "enemy_png",
+            "offPoint":[55, 60, 0.6, 0.6]
+        },
+        "size": {
+            "blockSizes":[[0, 0, 80, 80]],
+            "range":[55, 60, 55, 60]
+        },
+        "properties": {
+            "health": 100,
+            "defense": 50,
+            "mana": 0
+        },
+        "bullet": {
+            "id": 11,
+            "speed": 2
+        },
+        "type": 1
+    },
+    "21": {
+        "res": {
+            "name": "stone_png",
+            "offPoint":[73, 77, 0.6, 0.6]
+        },
+        "size": {
+            "blockSizes":[[0, 0, 80, 80]],
+            "range":[73, 77, 73, 77]
+        },
+        "properties": {
+            "health": 100,
+            "defense": 50
+        },
+        "type": 1
+    },
+    "11": {
+        "res": {
+            "name": "bullet_png",
+            "offPoint":[14, 14]
+        },
+        "size": {
+            "blockSizes":[[0, 0, 28, 28]],
+            "range":[14, 14, 14, 14]
+        },
+        "properties": {
+            "health": 100,
+            "attack": 100,
+            "defense": 50
+        },
+        "type": 2
+    },
+    "12": {
+        "res": {
+            "name": "bullet2_png",
+            "offPoint":[18, 60]
+        },
+        "size": {
+            "blockSizes":[[0, 0, 36, 36], [0, 36, 36, 36], [0, -36, 36, 36]],
+            "range":[5, 5, 5, 5]
+        },
+        "properties": {
+            "health": 100,
+            "attack": 200,
+            "defense": 200
+        },
+        "type": 2
+    }
+}
