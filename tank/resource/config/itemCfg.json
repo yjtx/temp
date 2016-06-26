@@ -87,5 +87,22 @@
             "defense": 200
         },
         "type": 2
+    },
+    "101": {
+        "res": {
+            "name": "bullet2_png",
+            "offPoint":[18, 120, 0.6, 0.6]
+        },
+        "size": {
+            "blockSizes":[[0, 0, 100, 0]],
+            "range":[18, 120, 18, 0]
+        },
+        "properties": {
+            "health": 100,
+            "attack": 400,
+            "defense": 200,
+            "range": 200
+        },
+        "type": 3
     }
 }
